@@ -1,7 +1,9 @@
 ul{
    background-color: skyblue;
+   margin-top: 0px;
    padding: 10px;
   text-align: right;
+  border-radius: 10px;
    
 }
 li{
